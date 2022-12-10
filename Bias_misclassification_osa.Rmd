@@ -13,7 +13,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## What we do
 
-We look into how misclassifications may affect the estimated effect size of a genetic variant on OSA. Mislassifications is assumed only in one direction: an individuals with OSA may not have any indication as having OSA, and is therefore misclassified as a control. For now, we ignore age effects. 
 We look into how misclassifications may affect the estimated effect size of a genetic variant on OSA. Misclassification is assumed only in one direction: an individuals with OSA may not have any indication as having OSA, and is therefore misclassified as a control. For now, we ignore potential age/gender effects. 
 
 
